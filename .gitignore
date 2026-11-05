@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+!.env.example
+coverage/
+*.log
+.test-postgres/
+.test-postgres.log
+.DS_Store
